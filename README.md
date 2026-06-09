@@ -329,7 +329,7 @@ Best **#5,428**
 
 | Level | Institution | Period | Score |
 |:------|:------------|:-------|:------|
-| **B.E. AI & Machine Learning** | KIT-CBE, Coimbatore | 2024 – 2028 | Pre-final year |
+| **B.E. AI & Machine Learning** | KIT-CBE, Coimbatore | 2024 – 2028 | 8.93/10 CGPA |
 | **HSC** | SJSVM Hr. Sec. School | 2023 – 2024 | 93.3% · 560/600 |
 | **SSLC** | SJSVM Hr. Sec. School | 2021—2022 | 94.4% · 472/500 |
 
