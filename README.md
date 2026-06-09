@@ -10,7 +10,7 @@
 <br/>
 
 <!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30&height=200&section=header&text=Ramasamy%20T&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20Engineer%20%C2%B7%20Agent%20Architect%20%C2%B7%20Competitive%20Programmer&descSize=16&descAlignY=62&descAlign=55" alt="Ramasamy T"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,0:0891b2&height=200&section=header&text=Ramasamy%20T&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20Engineer%20%C2%B7%20Agent%20Architect%20%C2%B7%20Competitive%20Programmer&descSize=16&descAlignY=62&descAlign=55" alt="Ramasamy T"/>
 
 <br/>
 
