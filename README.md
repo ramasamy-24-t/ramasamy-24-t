@@ -279,7 +279,7 @@ xychart-beta
 
 `████████░░` 91%
 
-**650+** solved · Top **8.11%**
+**650+** solved 
 
 Best rank **#2,950**
 
