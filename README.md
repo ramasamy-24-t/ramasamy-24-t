@@ -1,44 +1,44 @@
 <!--
   GitHub Profile README — Ramasamy T
-  Copy to: https://github.com/ramasamy-24-t/ramasamy-24-t/README.md
+  → Copy to: github.com/ramasamy-24-t/ramasamy-24-t/README.md
 
-  Theme — Midnight Aurora
-  #0f172a · #667eea · #a78bfa · #22d3ee · #f472b6
+  Wow stack: 3D contrib · cyberpunk cards · skillicons.dev · mermaid · trophies
+  Optional: add snake.yml workflow for animated contribution snake (see repo docs)
 -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&height=210&width=100%25&color=0:0f172a,50:312e81,100:4c1d95&text=%F0%9F%9A%80%20Ramasamy%20T&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20%C2%B7%20Autonomous%20Systems%20%C2%B7%20Competitive%20Programming&descSize=17&descAlignY=58&descAlign=55)
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&width=100%25&color=0:667eea,50:764ba2,100:4c1d95&text=Ramasamy%20T&fontSize=52&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Engineer%20%C2%B7%20Agent%20Architect%20%C2%B7%20Competitive%20Programmer&descSize=17&descAlignY=58&descAlign=55" alt="header"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ramasamy-24-t&label=Profile+Views&color=4c1d95&style=for-the-badge)](https://github.com/ramasamy-24-t)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://ramasamyt.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramasamy-24-t)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-rsamy2426@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsamy2426@gmail.com)
+<br/>
+
+<!-- LIVE METRICS STRIP -->
+<img src="https://img.shields.io/github/followers/ramasamy-24-t?style=for-the-badge&logo=github&label=Followers&color=4c1d95" alt="followers"/>
+<img src="https://img.shields.io/github/stars/ramasamy-24-t?style=for-the-badge&logo=github&label=Stars&color=667eea" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=ramasamy-24-t&label=Profile+Views&color=764ba2&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/LeetCode-1831-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+<img src="https://img.shields.io/badge/CodeChef-1571-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef"/>
+<img src="https://img.shields.io/badge/Codeforces-1086-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1831-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramasamy-24-t/)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-1571-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28aiml049)
-&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1086-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ramasamy-24-t)
+<a href="https://ramasamyt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/ramasamy-24-t"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:rsamy2426@gmail.com"><img src="https://img.shields.io/badge/Email-rsamy2426@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Orchestrating+AI+Agents+%26+Autonomous+Workflows;Documents+%E2%86%92+Reasoning+%E2%86%92+Production+Automation;Building+Systems+That+Actually+Ship;Competitive+Programming+%7C+Always+Leveling+Up" alt="typing"/>
+
+<br/><br/>
+
+<!-- 3D CONTRIBUTION — main wow element -->
+<img src="https://github-profile-3d-contrib.vercel.app/profile/full/username=ramasamy-24-t&theme=halloween&background=0f172a&border=0&radius=16&animation=scaleIn" width="100%" alt="3D GitHub contribution graph"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1400&color=A78BFA&center=true&vCenter=true&width=820&lines=Orchestrating+AI+Agents+%26+Workflows;From+Documents+%E2%86%92+Decisions+%E2%86%92+Automation;Shipping+Ideas+with+Clarity+%26+Speed;Competitive+Programming+%7C+Always+Optimizing)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<!-- ═══ UNIQUE ABOUT — Agent manifest, not Python class ═══ -->
+---
 
 ## ⚡ Identity Core
 
@@ -46,30 +46,29 @@
 <tr>
 <td width="52%" valign="top">
 
-**`ramasamy.agent.yaml`** — system manifest
+**`ramasamy.agent.yaml`**
 
 ```yaml
 agent:
   id: ramasamy-t
   location: Coimbatore, Tamil Nadu 🇮🇳
-  education: B.E. AI & ML @ KIT-CBE (2024–2028)
+  education: B.E. AI & ML @ KIT-CBE · 2024–2028
 
 mission: |
-  Build autonomous systems that ingest messy inputs,
-  reason with LLMs, and output reliable production workflows.
+  Ingest messy real-world inputs → reason with LLMs →
+  ship reliable automated workflows to production.
 
 runtime:
-  primary:   [Python, FastAPI, AWS Lambda]
-  interface: [React, Tailwind CSS]
-  intelligence: [RAG, OpenAI, Document AI, Agents]
+  core:   [Python, FastAPI, AWS Lambda, React]
+  brain:  [RAG, OpenAI, Document AI, Agents]
+  engine: [DSA · LeetCode · CodeChef · Codeforces]
 
 modes:
-  🛠 build:   ship backends · pipelines · integrations
-  🧠 learn:   LLM tooling · MLOps · system design
-  🏁 compete: LeetCode · CodeChef · Codeforces
+  build:    backends · pipelines · integrations
+  compete:  algorithms · contests · optimization
+  explore:  agentic systems · MLOps · design
 
-availability: open_to_internships & tech_collaborations
-signal:       "Let's build something that actually ships."
+status: OPEN — internships & collaborations welcome
 ```
 
 </td>
@@ -77,13 +76,13 @@ signal:       "Let's build something that actually ships."
 
 ```
 ╔══════════════════════════════════════╗
-║  RAM-OS  ·  agent runtime v2.026     ║
+║   RAM-OS  ·  agent runtime v2.026    ║
 ╠══════════════════════════════════════╣
-║  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱  boot sequence      ║
-║  ✓ ingest layer      · online        ║
-║  ✓ reasoning layer   · online        ║
-║  ✓ action layer      · online        ║
-║  ✓ DSA engine        · warmed up     ║
+║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  initializing…     ║
+║  ✓ ingest layer       ONLINE         ║
+║  ✓ reasoning layer    ONLINE         ║
+║  ✓ action layer       ONLINE         ║
+║  ✓ DSA engine         WARM           ║
 ╠══════════════════════════════════════╣
 ║  > await collaboration_request()     ║
 ╚══════════════════════════════════════╝
@@ -91,22 +90,20 @@ signal:       "Let's build something that actually ships."
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Api.gif" width="300" alt="API workflow animation"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Api.gif" width="280" alt="workflow"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
 ```mermaid
 graph LR
-    A["🌍 Real-World Problems"] --> B["📄 Ingest & Parse"]
-    B --> C["🧠 LLM + RAG Reasoning"]
-    C --> D["⚙️ Automated Workflows"]
-    D --> E["✅ Production Impact"]
+    A["🌍 Problems"] --> B["📄 Ingest"]
+    B --> C["🧠 LLM + RAG"]
+    C --> D["⚙️ Automate"]
+    D --> E["🚀 Ship"]
 
     style A fill:#1e293b,stroke:#64748b,color:#e2e8f0
     style B fill:#312e81,stroke:#818cf8,color:#fff
@@ -115,24 +112,78 @@ graph LR
     style E fill:#831843,stroke:#f472b6,color:#fff
 ```
 
-*How I think about engineering — every project is a pipeline from chaos to clarity.*
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<!-- Cyberpunk summary cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramasamy-24-t&theme=2077" height="180" alt="profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramasamy-24-t&theme=2077" height="180" alt="repos per language"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramasamy-24-t&theme=2077" height="180" alt="most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramasamy-24-t&theme=2077" height="180" alt="stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramasamy-24-t&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0&border_radius=16&include_all_commits=true&count_private=true" height="170" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramasamy-24-t&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=16" height="170" alt="top langs"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ramasamy-24-t&theme=dark&hide_border=true&background=0F172A&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0&stroke=0F172A&border_radius=16" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramasamy-24-t&bg_color=0f172a&color=a78bfa&line=22d3ee&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ramasamy-24-t&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="trophies"/>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![Skill Icons](https://go-skill-icons.vercel.app/icons?i=python,c,cpp,java,javascript,html,css,react,tailwind,fastapi,flask,nodejs,mongodb,mysql,aws,git,github,opencv,numpy,pandas,sklearn,openai&theme=dark)
-
-</div>
+**Languages & Frontend**
 
 <br/>
 
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,tailwind,ts&perline=9" alt="languages frontend"/>
+
+<br/><br/>
+
+**Backend · Cloud · AI · Tools**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,mysql,aws,docker,linux,git,github,vscode,postman,bash&perline=8" alt="backend cloud tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RAG-764ba2?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
 <details>
-<summary><b>📦 Stack breakdown by layer</b></summary>
+<summary><b>📦 Full stack breakdown</b></summary>
 <br/>
 
 | Layer | Tools |
@@ -143,32 +194,9 @@ graph LR
 | **Cloud** | AWS Lambda · S3 · API Gateway · Cognito · Aurora · Bedrock · SQS |
 | **AI / ML** | RAG · OpenAI API · OpenCV · MediaPipe · scikit-learn · NumPy · Pandas |
 | **Data** | MongoDB · MySQL |
-| **DevOps** | Git · GitHub |
+| **DevOps** | Git · GitHub · Docker · Linux |
 
 </details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ramasamy-24-t">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ramasamy-24-t&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0&border_radius=16&ring_color=764ba2"/>
-</a>
-<a href="https://github.com/ramasamy-24-t">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramasamy-24-t&layout=compact&theme=transparent&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=16"/>
-</a>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramasamy-24-t&theme=dark&hide_border=true&background=0F172A&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0&stroke=0F172A&border_radius=16)](https://github.com/ramasamy-24-t)
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramasamy-24-t&bg_color=0f172a&color=a78bfa&line=22d3ee&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ramasamy-24-t)
-
-</div>
 
 ---
 
@@ -178,18 +206,18 @@ graph LR
 <summary><b>🏢 Wincredible Technologies — AI Engineering Intern · Mar 2026 – Present · Remote</b></summary>
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-| Phase | What I shipped |
-|:------|:---------------|
-| **Ingest** | AI-driven document intelligence & backend automation components |
-| **Reason** | LLM integrations into production workflows for faster processing |
-| **Act** | Database schemas, APIs, and scalable AWS serverless architecture |
+| Phase | Impact |
+|:------|:-------|
+| **📄 Ingest** | AI document intelligence & backend automation components |
+| **🧠 Reason** | LLM integrations in production workflows |
+| **⚙️ Act** | Scalable AWS serverless · APIs · database architecture |
 
 </details>
 
@@ -199,14 +227,14 @@ graph LR
 
 <div align="center">
 
-| | Project | Stack | One-liner |
-|:--:|:--------|:------|:----------|
-| 🌱 | [**Precision Farming Assistant**](https://github.com/ramasamy-24-t/Precision-Farming-Assistant) | RAG · ChromaDB · Flask | Hackathon-winning crop advisory from PDF knowledge bases |
-| 💼 | [**JobAssistant (JGenie)**](https://github.com/ramasamy-24-t/job_assistant) | Flask · Playwright · Telegram | Autonomous career agent — scrape, match, apply, notify |
-| 🌤️ | [**Weather Dashboard**](https://github.com/ramasamy-24-t/Aakash-Ka-Vaani) · [live](https://aakash-ka-vaani-v1.vercel.app/) | MERN · Groq | AI weather companion with contextual recommendations |
-| 🤟 | [**Sign Language Translation**](https://github.com/ramasamy-24-t/Indian-Sign-Language-Detection) | MediaPipe · OpenCV | Real-time gesture → text → speech pipeline |
-| 🖐️ | [**Gesture Keyboard**](https://github.com/ramasamy-24-t/gesture-controlled-keyboard) | Python · MediaPipe | Hands-free keyboard control via webcam |
-| 😉 | [**Face Sketch Overlay**](https://github.com/ramasamy-24-t/face-detect-sketch) | OpenCV | Live detection + Canny edge art overlay |
+| | Project | Stack | Impact |
+|:--:|:--------|:------|:-------|
+| 🌱 | [**Precision Farming Assistant**](https://github.com/ramasamy-24-t/Precision-Farming-Assistant) | RAG · ChromaDB · Flask | 🏆 Hackathon RAG crop advisory from PDFs |
+| 💼 | [**JobAssistant (JGenie)**](https://github.com/ramasamy-24-t/job_assistant) | Flask · Playwright · Telegram | Autonomous career agent end-to-end |
+| 🌤️ | [**Weather Dashboard**](https://github.com/ramasamy-24-t/Aakash-Ka-Vaani) · [live ↗](https://aakash-ka-vaani-v1.vercel.app/) | MERN · Groq | AI weather companion with live demo |
+| 🤟 | [**Sign Language AI**](https://github.com/ramasamy-24-t/Indian-Sign-Language-Detection) | MediaPipe · OpenCV | Gesture → text → speech pipeline |
+| 🖐️ | [**Gesture Keyboard**](https://github.com/ramasamy-24-t/gesture-controlled-keyboard) | Python · MediaPipe | Webcam hands-free keyboard |
+| 😉 | [**Face Sketch AI**](https://github.com/ramasamy-24-t/face-detect-sketch) | OpenCV | Live detection + Canny art overlay |
 
 </div>
 
@@ -216,13 +244,20 @@ graph LR
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/LeetCode-1831-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/CodeChef-1571-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1086-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<br/><br/>
+
 ```
-   PLATFORM        RATING        RANK              PROFILE
-  ─────────────────────────────────────────────────────────────
-   LeetCode         1831         #1,02,825         ramasamy-24-t
-   CodeChef         1571         #19,580           kit28aiml049
-   Codeforces       1086         #92,675           ramasamy-24-t
-  ─────────────────────────────────────────────────────────────
+╔══════════════════════════════════════════════════════════════╗
+║  PLATFORM       RATING     GLOBAL RANK        PROFILE        ║
+╠══════════════════════════════════════════════════════════════╣
+║  LeetCode        1831       #1,02,825         ramasamy-24-t  ║
+║  CodeChef        1571       #19,580           kit28aiml049   ║
+║  Codeforces      1086       #92,675           ramasamy-24-t  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -241,20 +276,21 @@ graph LR
 
 ---
 
-## 🔭 Lab — Currently Building
+## 🔭 Lab — Active Experiments
 
 <div align="center">
 
 ```mermaid
 flowchart TB
-    subgraph LAB[" 🔬 Active Experiments "]
-        A["Legal Contract Assistant<br/><sub>document intelligence · LLM workflows</sub>"]
-        B["Agentic Customer Support<br/><sub>tool-use agents · autonomous replies</sub>"]
-        C["Health Triage Agent<br/><sub>structured intake · reasoning chains</sub>"]
+    subgraph LAB[" 🔬 Currently Building "]
+        direction LR
+        A["📜 Legal Contract<br/>Assistant"]
+        B["💬 Agentic<br/>Support"]
+        C["🏥 Health Triage<br/>Agent"]
     end
     A ~~~ B ~~~ C
 
-    style LAB fill:#0f172a,stroke:#a78bfa,color:#e2e8f0
+    style LAB fill:#0f172a,stroke:#a78bfa,stroke-width:2px,color:#e2e8f0
     style A fill:#312e81,stroke:#818cf8,color:#fff
     style B fill:#0e7490,stroke:#22d3ee,color:#fff
     style C fill:#831843,stroke:#f472b6,color:#fff
@@ -270,17 +306,17 @@ flowchart TB
 
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🥇 | **Hack Smart Hackathon — 1st Prize** | 36-hour hackathon conducted at KIT-CBE |
+| 🥇 | **Hack Smart Hackathon — 1st Prize** | 36-hour hackathon · KIT-CBE |
 | 🥇 | **Code Wars 2.0 — 1st Prize** | Park College of Engineering & Technology |
 | 🥇 | **Code It — 1st Prize** | Sri RamaKrishna Institute of Technology |
 | 🥇 | **StructX Hackathon — 3rd Prize** | DSA Coding challenge |
-| 💻 | **LeetCode** | Max Rating **1831** · **650+** solved · Top **8.11%** globally · Highest Rank **#2,950** · 3 Badges |
-| ⚡ | **Codeforces** | Max Rating **1088** · **26** problems · Highest Rank **#5,428** (Round 31 Div. 1 + Div. 2) |
-| 🍴 | **CodeChef** | Max Rating **1571** · ⭐⭐ · **600+** problems · Highest Rank **#681** (Starters 241 Div. 3) · Global **#19,580** |
-| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services · 2025 |
+| 💻 | **LeetCode** | Max **1831** · **650+** solved · Top **8.11%** · Best **#2,950** · 3 Badges |
+| ⚡ | **Codeforces** | Max **1088** · **26** problems · Best **#5,428** |
+| 🍴 | **CodeChef** | Max **1571** · ⭐⭐ · **600+** problems · Best **#681** |
+| ☁️ | **AWS Cloud Practitioner** | Amazon Web Services · 2025 |
 | 🐍 | **Python for Data Science** | Top 1% · Silver + Elite · 2025 |
-| ©️ | **NPTEL — Problem Solving using C** | Top 5% · Silver + Elite · 2025 |
-| 🔷 | **Deloitte Technology Job Simulation** | 2025 |
+| ©️ | **NPTEL — Problem Solving in C** | Top 5% · Silver + Elite · 2025 |
+| 🔷 | **Deloitte Tech Simulation** | 2025 |
 | 🤖 | **Deploy Production Ready Agents** | Google Skills · 2026 |
 
 </div>
@@ -289,27 +325,30 @@ flowchart TB
 
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764ba2&height=3&section=header&width=100%25" alt="divider"/>
+
+<br/><br/>
 
 ```
      ╭──────────────────────────────────────────╮
-     │  COLLABORATION REQUEST RECEIVED ✓        │
-     │  → linkedin · github · email             │
+     │  🤝 COLLABORATION REQUEST RECEIVED ✓     │
+     │  linkedin · github · email · portfolio   │
      ╰──────────────────────────────────────────╯
 ```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramasamy-24-t)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/View%20Projects-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramasamy-24-t)
-&nbsp;
-[![Email](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsamy2426@gmail.com)
+<a href="https://www.linkedin.com/in/ramasamy-24-t"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://github.com/ramasamy-24-t"><img src="https://img.shields.io/badge/GitHub-Projects-667eea?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="mailto:rsamy2426@gmail.com"><img src="https://img.shields.io/badge/Email-Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://ramasamyt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=667eea" alt="portfolio"/></a>
 
 <br/><br/>
 
 *"Every great system starts as a messy pipeline — then someone automates it."*
 
-</div>
+<br/><br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4c1d95&height=120&section=footer&fontColor=ffffff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:4c1d95&height=130&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn" alt="footer"/>
+
+</div>
